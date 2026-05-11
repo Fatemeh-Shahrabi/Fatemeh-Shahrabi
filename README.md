@@ -6,8 +6,7 @@
 
 ## About Me
 
-Motivated student with hands-on experience in web development, AI tools, and startup environments. Skilled in Laravel, Python, and C++,
-with a strong foundation in teamwork, problem-solving, and innovation. Passionate about entrepreneurship, hackathons, and impactful tech
+Motivated student with hands-on experience in web development, AI tools, and startup environments. With a strong foundation in teamwork, problem-solving, and innovation. Passionate about entrepreneurship, hackathons, and impactful tech
 initiatives.
 
 ---
