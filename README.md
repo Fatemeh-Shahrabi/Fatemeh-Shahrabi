@@ -3,9 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,50:3D3D3D,100:C9A876&height=140&section=header" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=C9A876&center=true&vCenter=true&width=500&lines=Fatemeh+is+here...;Tinkering+with+code+and+ideas+%E2%9C%A8;Trying+to+build+something+that+matters." alt="Typing SVG" />
+
+</div>
+
 <br/>
 
-## About Me
+## 🖤 About Me
 
 ```yaml
 name: Fatemeh Shahrabi
