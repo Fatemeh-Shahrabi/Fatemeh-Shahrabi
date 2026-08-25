@@ -1,22 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Fatemeh+%F0%9F%91%8B;Web+Developer+%7C+AI+Tinkerer+%7C+Builder;Turning+ideas+into+working+products+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,50:3D3D3D,100:C9A876&height=140&section=header" width="100%"/>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=header" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=C9A876&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Fatemeh+%F0%9F%91%8B;Web+Developer+%7C+AI+Tinkerer+%7C+Builder;Turning+ideas+into+working+products+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/fatemeh-shahrabi/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:fatemeh.shahrabifarahanii@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Fatemeh-Shahrabi"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
 <br/>
 
-## 🚀 About Me
+## 🖤 About Me
 
 ```yaml
 name: Fatemeh Shahrabi
@@ -36,7 +28,7 @@ traits: [problem-solver, team-player, hackathon-lover, entrepreneur-minded]
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,py,php,cpp,laravel,flask,wordpress,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,py,php,cpp,laravel,flask,wordpress,git,github&theme=dark" />
 </p>
 
 <table align="center">
@@ -69,19 +61,6 @@ traits: [problem-solver, team-player, hackathon-lover, entrepreneur-minded]
 </td>
 </tr>
 </table>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Fatemeh-Shahrabi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatemeh-Shahrabi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fatemeh-Shahrabi&theme=tokyonight&hide_border=true&background=0D1117&ring=10B981&fire=10B981" />
-</p>
 
 <br/>
 
@@ -139,16 +118,12 @@ New projects and experiments are always in the pipeline — check my pinned repo
 
 <br/>
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fatemeh-shahrabi/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:fatemeh.shahrabifarahanii@gmail.com"><img src="https://img.shields.io/badge/-fatemeh.shahrabifarahanii@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Fatemeh-Shahrabi"><img src="https://img.shields.io/badge/-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/fatemeh-shahrabi/"><img src="https://img.shields.io/badge/-LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=C9A876" /></a>
+  <a href="mailto:fatemeh.shahrabifarahanii@gmail.com"><img src="https://img.shields.io/badge/-Gmail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=C9A876" /></a>
+  <a href="https://github.com/Fatemeh-Shahrabi"><img src="https://img.shields.io/badge/-Follow-1a1a1a?style=for-the-badge&logo=github&logoColor=C9A876" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fatemeh-Shahrabi&label=Profile%20Views&color=10B981&style=flat" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,50:3D3D3D,100:C9A876&height=100&section=footer" width="100%"/>
