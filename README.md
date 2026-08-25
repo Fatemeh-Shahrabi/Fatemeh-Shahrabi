@@ -8,7 +8,7 @@
 
 <br/>
 
-## 🖤 About Me
+## About Me
 
 ```yaml
 name: Fatemeh Shahrabi
