@@ -122,7 +122,7 @@ New projects and experiments are always in the pipeline — check my pinned repo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fatemeh-shahrabi/"><img src="https://img.shields.io/badge/-LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=C9A876" /></a>
-  <a href="mailto:fatemeh.shahrabifarahanii@gmail.com"><img src="https://img.shields.io/badge/-Gmail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=C9A876" /></a>
+  <a href="mailto:fatemeh.shahrabif@gmail.com"><img src="https://img.shields.io/badge/-Gmail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=C9A876" /></a>
   <a href="https://github.com/Fatemeh-Shahrabi"><img src="https://img.shields.io/badge/-Follow-1a1a1a?style=for-the-badge&logo=github&logoColor=C9A876" /></a>
 </p>
 
