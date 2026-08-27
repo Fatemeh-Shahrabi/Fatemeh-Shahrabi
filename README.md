@@ -13,7 +13,6 @@
 ```yaml
 name: Fatemeh Shahrabi
 role: Web Developer & AI Enthusiast
-currently: Building things that (hopefully) matter
 focus: Web Development • AI Tools • Startup Environments
 traits: [problem-solver, team-player, hackathon-lover, entrepreneur-minded]
 ```
@@ -21,7 +20,6 @@ traits: [problem-solver, team-player, hackathon-lover, entrepreneur-minded]
 - 🔭 Motivated student with hands-on experience in **web development**, **AI tools**, and **startup environments**
 - 🌱 Strong foundation in **teamwork**, **problem-solving**, and **innovation**
 - 💡 Passionate about **entrepreneurship**, **hackathons**, and **impactful tech initiatives**
-- ⚡ Always tinkering with a new project, framework, or idea
 
 <br/>
 
