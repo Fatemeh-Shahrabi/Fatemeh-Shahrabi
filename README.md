@@ -8,7 +8,7 @@
 
 <br/>
 
-## 🖤 About Me
+## About Me
 
 ```yaml
 name: Fatemeh Shahrabi
@@ -19,12 +19,11 @@ traits: [problem-solver, hackathon-lover, entrepreneur-minded]
 
 Student developer who builds practical web & AI projects and enjoys the chaos of hackathons and startup environments. Always tinkering with something new.
 
-- 🎓 **Rubikamp Leadership School** — AI Track
-- 🏆 **RoboCup Adrenaline 2D Simulation** — Best First-Year Team, Iran Open 2024
+- **RoboCup Adrenaline 2D Simulation** — Best First-Year Team, Iran Open 2024
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,py,php,cpp,laravel,flask,wordpress,git,github&theme=dark" />
@@ -34,7 +33,7 @@ Student developer who builds practical web & AI projects and enjoys the chaos of
 <tr>
 <td valign="top" width="33%">
 
-**🌐 Web Development**
+**Web Development**
 - HTML5 / CSS3
 - JavaScript
 - Tailwind CSS
@@ -43,7 +42,7 @@ Student developer who builds practical web & AI projects and enjoys the chaos of
 </td>
 <td valign="top" width="33%">
 
-**💻 Languages**
+**Languages**
 - Python
 - PHP
 - C++
@@ -51,7 +50,7 @@ Student developer who builds practical web & AI projects and enjoys the chaos of
 </td>
 <td valign="top" width="33%">
 
-**⚙️ Frameworks & Tools**
+**Frameworks & Tools**
 - Laravel & Livewire
 - Flask
 - WordPress
@@ -63,20 +62,20 @@ Student developer who builds practical web & AI projects and enjoys the chaos of
 
 <br/>
 
-## ✨ Notable Projects
+## Notable Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🗺️ [Kolehbar](https://github.com/Fatemeh-Shahrabi/KolehBar)
+### [Kolehbar](https://github.com/Fatemeh-Shahrabi/KolehBar)
 Laravel Livewire travel planning app with location-based features and an admin dashboard.
 <br/>`Laravel` `Livewire` `MySQL`
 
 </td>
 <td width="50%" valign="top">
 
-### 📝 [Khodnevis](https://github.com/Fatemeh-Shahrabi/Khodnevis)
+### [Khodnevis](https://github.com/Fatemeh-Shahrabi/Khodnevis)
 AI note-taking assistant that converts speech into structured summaries using Whisper + GPT.
 <br/>`Python` `Whisper` `GPT`
 
@@ -85,14 +84,14 @@ AI note-taking assistant that converts speech into structured summaries using Wh
 <tr>
 <td width="50%" valign="top">
 
-### 📚 [Grammagic](https://github.com/Fatemeh-Shahrabi/Grammagic)
+### [Grammagic](https://github.com/Fatemeh-Shahrabi/Grammagic)
 21-day English grammar web tutor with AI-evaluated quizzes powered by GPT.
 <br/>`Web` `GPT` `EdTech`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 [Rubin](https://github.com/Fatemeh-Shahrabi/Rubin)
+### [Rubin](https://github.com/Fatemeh-Shahrabi/Rubin)
 AI-powered student data assistant for CSV processing, reporting, and chatbot queries.
 <br/>`Python` `AI` `Data`
 
@@ -101,14 +100,14 @@ AI-powered student data assistant for CSV processing, reporting, and chatbot que
 <tr>
 <td width="50%" valign="top">
 
-### ⌛ [MindTap](https://github.com/Fatemeh-Shahrabi/MindTap)
+### [MindTap](https://github.com/Fatemeh-Shahrabi/MindTap)
 Chrome extension to boost focus by limiting distractions on sites like YouTube & Instagram.
 <br/>`Chrome Extension` `JavaScript` — *in development*
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 More on the way
+### More on the way
 More experiments are in the pipeline — check my pinned repos for the latest.
 
 </td>
@@ -117,7 +116,7 @@ More experiments are in the pipeline — check my pinned repos for the latest.
 
 <br/>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fatemeh-shahrabi/"><img src="https://img.shields.io/badge/-LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=C9A876" /></a>
