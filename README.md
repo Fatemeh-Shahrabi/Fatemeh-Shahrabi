@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,50:3D3D3D,100:C9A876&height=140&section=header" width="100%"/>
 
-### Hi, I'm Fatemeh — I build things because I genuinely love the process.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=C9A876&center=true&vCenter=true&width=500&lines=Fatemeh+is+here...;Tinkering+with+code+and+ideas+%E2%9C%A8;Trying+to+build+something+that+matters." alt="Typing SVG" />
 
 </div>
 
@@ -10,9 +10,16 @@
 
 ## About Me
 
-I got into coding almost by accident, and stayed because I love the feeling of turning a messy idea into something that actually works. Most of my projects start from a small "what if" — a note-taking app that could summarize my own voice, a grammar tutor that could actually correct me, a dashboard for data I was tired of processing by hand. I care more about building something real than following a rulebook, and I'm just as happy debugging at 2am as I am pitching an idea at a hackathon.
+```yaml
+name: Fatemeh Shahrabi
+role: Web Developer & AI Enthusiast
+focus: Web Development • AI Tools • Startup Environments
+traits: [problem-solver, hackathon-lover, entrepreneur-minded]
+```
 
-Right now I split my time between web development (Laravel, Livewire, plain JS/CSS) and playing with AI tools to see what they can actually be useful for — not just because it's trendy, but because I like seeing a model do something concretely helpful. Outside of code, I'm drawn to startups and hackathons for the same reason: I like environments where you have to figure things out fast, with people, under pressure.
+Student developer who builds practical web & AI projects and enjoys the chaos of hackathons and startup environments. Always tinkering with something new.
+
+- **RoboCup Adrenaline 2D Simulation** — Best First-Year Team, Iran Open 2024
 
 <br/>
 
