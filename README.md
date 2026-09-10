@@ -8,18 +8,19 @@
 
 <br/>
 
-## About Me
+## 🖤 About Me
 
 ```yaml
 name: Fatemeh Shahrabi
 role: Web Developer & AI Enthusiast
 focus: Web Development • AI Tools • Startup Environments
-traits: [problem-solver, team-player, hackathon-lover, entrepreneur-minded]
+traits: [problem-solver, hackathon-lover, entrepreneur-minded]
 ```
 
-- 🔭 Motivated student with hands-on experience in **web development**, **AI tools**, and **startup environments**
-- 🌱 Strong foundation in **teamwork**, **problem-solving**, and **innovation**
-- 💡 Passionate about **entrepreneurship**, **hackathons**, and **impactful tech initiatives**
+Student developer who builds practical web & AI projects and enjoys the chaos of hackathons and startup environments. Always tinkering with something new.
+
+- 🎓 **Rubikamp Leadership School** — AI Track
+- 🏆 **RoboCup Adrenaline 2D Simulation** — Best First-Year Team, Iran Open 2024
 
 <br/>
 
@@ -108,7 +109,7 @@ Chrome extension to boost focus by limiting distractions on sites like YouTube &
 <td width="50%" valign="top">
 
 ### 💬 More on the way
-New projects and experiments are always in the pipeline — check my pinned repos for the latest!
+More experiments are in the pipeline — check my pinned repos for the latest.
 
 </td>
 </tr>
@@ -120,7 +121,7 @@ New projects and experiments are always in the pipeline — check my pinned repo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fatemeh-shahrabi/"><img src="https://img.shields.io/badge/-LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=C9A876" /></a>
-  <a href="mailto:fatemeh.shahrabif@gmail.com"><img src="https://img.shields.io/badge/-Gmail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=C9A876" /></a>
+  <a href="mailto:fatemeh.shahrabifarahanii@gmail.com"><img src="https://img.shields.io/badge/-Gmail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=C9A876" /></a>
   <a href="https://github.com/Fatemeh-Shahrabi"><img src="https://img.shields.io/badge/-Follow-1a1a1a?style=for-the-badge&logo=github&logoColor=C9A876" /></a>
 </p>
 
