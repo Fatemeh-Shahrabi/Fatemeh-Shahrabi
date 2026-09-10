@@ -6,7 +6,7 @@
 
 <br/>
 
-**Web Developer & AI Enthusiast** — Web Development • AI Tools • Startup Environments
+Turning ideas into practical projects with Laravel, Python & AI
 
 <br/>
 
