@@ -5,6 +5,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=C9A876&center=true&vCenter=true&width=500&lines=Fatemeh+is+here...;Tinkering+with+code+and+ideas+%E2%9C%A8;Trying+to+build+something+that+matters." alt="Typing SVG" />
 
 <br/>
+<br/>
+<br/>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,py,php,cpp,laravel,flask,wordpress,git,github&theme=dark" />
 
