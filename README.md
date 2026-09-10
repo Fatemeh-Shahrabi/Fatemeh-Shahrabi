@@ -62,43 +62,6 @@ Student developer who builds practical web & AI projects and enjoys the chaos of
 
 <br/>
 
-## Notable Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Kolehbar](https://github.com/Fatemeh-Shahrabi/KolehBar)
-Laravel Livewire travel planning app with location-based features and an admin dashboard.
-<br/>`Laravel` `Livewire` `MySQL`
-
-</td>
-<td width="50%" valign="top">
-
-### [Khodnevis](https://github.com/Fatemeh-Shahrabi/Khodnevis)
-AI note-taking assistant that converts speech into structured summaries using Whisper + GPT.
-<br/>`Python` `Whisper` `GPT`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Grammagic](https://github.com/Fatemeh-Shahrabi/Grammagic)
-21-day English grammar web tutor with AI-evaluated quizzes powered by GPT.
-<br/>`Web` `GPT` `EdTech`
-
-</td>
-<td width="50%" valign="top">
-
-### [Rubin](https://github.com/Fatemeh-Shahrabi/Rubin)
-AI-powered student data assistant for CSV processing, reporting, and chatbot queries.
-<br/>`Python` `AI` `Data`
-
-</td>
-</tr>
-</table>
-
 <br/>
 
 ## Let's Connect
