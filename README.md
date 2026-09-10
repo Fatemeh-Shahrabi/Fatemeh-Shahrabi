@@ -16,11 +16,6 @@ role: Web Developer & AI Enthusiast
 focus: Web Development • AI Tools • Startup Environments
 traits: [problem-solver, hackathon-lover, entrepreneur-minded]
 ```
-
-Student developer who builds practical web & AI projects and enjoys the chaos of hackathons and startup environments. Always tinkering with something new.
-
-- **RoboCup Adrenaline 2D Simulation** — Best First-Year Team, Iran Open 2024
-
 <br/>
 
 ## Tech Stack
