@@ -98,17 +98,11 @@ AI-powered student data assistant for CSV processing, reporting, and chatbot que
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" colspan="2" valign="top">
 
 ### [MindTap](https://github.com/Fatemeh-Shahrabi/MindTap)
 Chrome extension to boost focus by limiting distractions on sites like YouTube & Instagram.
 <br/>`Chrome Extension` `JavaScript` — *in development*
-
-</td>
-<td width="50%" valign="top">
-
-### More on the way
-More experiments are in the pipeline — check my pinned repos for the latest.
 
 </td>
 </tr>
